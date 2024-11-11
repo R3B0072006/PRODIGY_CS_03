@@ -21,7 +21,7 @@ This tool evaluates the strength of a password based on several criteria, such a
 ## Feedback
 The tool provides feedback on the strength of the password and suggests improvements.
 
-Example Usage
+## Example Usage
 1. Example 1 Input: Password123! Result: Password strength: Strong
 2. Example 2 Input: pass123 Result: Password strength: Medium
 3. Example 3 Input: 12345 Result: Password strength: Weak
